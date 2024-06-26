@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+
+}
+hi{
+    font-size: 30px;
+
+}
+table tr td{
+    padding-left: 6px;
+    padding-bottom: 6PX;
+
+}
+fieldset{
+    width: 650px;
+    text-align: center;
+    margin: auto;
+}
